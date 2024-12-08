@@ -11,3 +11,4 @@ How to use
 Build instructions at https://median.co/docs/build-ios-from-source
 
 Licensing information available at https://median.co/license
+# ios-5
